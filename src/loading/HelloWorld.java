@@ -1,4 +1,4 @@
-package class_file;
+package loading;
 
 public class HelloWorld{
 
